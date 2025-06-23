@@ -11,6 +11,7 @@ from faster_whisper import WhisperModel
 from prompts import PROMPTS
 
 # Setup
+os.environ['OPENAI_API_KEY'] = "sk-XXX" #Replace the key
 os.environ['LANGCHAIN_VERBOSE'] = 'false'
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
