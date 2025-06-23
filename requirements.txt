@@ -1,0 +1,8 @@
+gradio>=4.0
+openai
+langchain
+faster-whisper
+torch
+markdown2
+pdfkit
+wkhtmltopdf
