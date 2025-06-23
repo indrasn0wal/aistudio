@@ -5,4 +5,3 @@ faster-whisper
 torch
 markdown2
 pdfkit
-wkhtmltopdf
