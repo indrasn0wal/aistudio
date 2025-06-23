@@ -35,6 +35,7 @@ This project transforms audio recordings of meetings into concise, structured su
 - Add **speaker diarization** for speaker labels
 - Integrate with **Google Calendar** to auto-schedule follow-ups
 - Add support for **multilingual transcription**
+- Real time processing
 
 ---
 
