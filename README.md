@@ -38,11 +38,3 @@ This project transforms audio recordings of meetings into concise, structured su
 - Real time processing
 
 ---
-
-## 📦 Submission Checklist
-
-- ✅ GitHub repository with modular code
-- ✅ Gradio-based demo
-- ✅ Audio → Transcript → Summary pipeline
-- ✅ Output formats: `.md`, `.json`, `.pdf`
-- ✅ Final write-up
