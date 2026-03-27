@@ -5,3 +5,4 @@ faster-whisper
 torch
 markdown2
 pdfkit
+langchain-openai
